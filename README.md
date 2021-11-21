@@ -1,6 +1,6 @@
 # Identifier Silly Pascal
 
-Projeto criado para testar automaticamente identificadores Silly Pascal.
+Testando automaticamente identificadores Silly Pascal.
 Retorna true se for um identificador válido em Silly Pascal, ou false caso contrário.
 “Um identificador válido deve começar com uma letra e conter apenas letras ou dı́gitos. Além disso, deve ter no mı́nimo um e no máximo seis caracteres de comprimento.”
 Projeto criado para fins de estudo do curso MBA em Engenharia de Software -> criar casos de teste.

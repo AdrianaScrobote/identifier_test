@@ -2,7 +2,7 @@
   "name": "identifier_test",
   "version": "1.0.0",
   "description": "Projeto Identifier - Lista 5",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "clean": "del-cli --force ./build/",
     "test": "npm run clean && jest",
